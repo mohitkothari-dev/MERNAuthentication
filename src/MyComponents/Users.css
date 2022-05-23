@@ -1,0 +1,10 @@
+.user{
+    color: #ffffff;
+    text-align: center;
+}
+
+.user h3 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
